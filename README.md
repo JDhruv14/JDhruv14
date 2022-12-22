@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 - 🌱 I'm a fresher at G.H. Patel College of Engineering and Technology pursuing Computer Engineering<br>
-- 🔭 I'm working on myself to become a good person <br>
+- 🔭 I'm currently working to develop technical skills <br>
 - 🤝🏽 I'm looking for help with computing and gain deep knowledge of it<br>
 - 💬 Ask me about anything and I'll certainly help you to solve your problem<br>
 - ⚡ Fun Fact about me is that I work well under pressure<br>
