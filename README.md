@@ -7,11 +7,11 @@
 
 
 # 💫 About Me:
-- 🌱 I'm a fresher at G.H. Patel College of Engineering and Technology pursuing Computer Engineering<br>
-- 🔭 I'm currently working on flourishing my technical skills <br>
-- 🤝🏽 I'm looking for help with computing and gain deep knowledge of it<br>
-- 💬 Ask me about anything and I'll certainly help you to solve your problem<br>
-- ⚡ Fun Fact about me is that I work well under pressure<br>
+- <h3>🌱 I'm a fresher at G.H. Patel College of Engineering and Technology pursuing Computer Engineering<br>
+- <h3>🔭 I'm currently working on flourishing my technical skills <br>
+- <h3>🤝🏽 I'm looking for help with computing and gain deep knowledge of it<br>
+- <h3>💬 Ask me about anything and I'll certainly help you to solve your problem<br>
+- <h3>⚡ Fun Fact about me is that I work well under pressure<br>
 
 # 💻 Tech Stack:
 <div align="center">  <table><tr><td valign="top" width="40%">
