@@ -71,6 +71,7 @@
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" />
 </div>  
+<br/>    
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JDhruv14&&style=flat-square" align="center" />
