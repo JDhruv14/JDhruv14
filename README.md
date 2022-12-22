@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Dhruv 🚀🌟</div> 
+
+
 # 💫 About Me:
 🌱 I'm a fresher at G.H. Patel College of Engineering and Technology pursuing Computer Engineering<br>🔭 I'm working on myself to become a good person <br>🤝🏽 I'm looking for help with computing and gain deep knowledge of it<br>💬 Ask me about anything and I'll certainly help you to solve your problem<br>⚡ Fun Fact about me is that I work well under pressure<br>
 
