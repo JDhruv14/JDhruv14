@@ -67,7 +67,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDhruv14&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>  
 <br/>  
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" align="center" />
 </div>  
