@@ -1,12 +1,10 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
-### <div align="center"><h1>𝓘'𝓶 𝓓𝓱𝓻𝓾𝓿 🚀🌟</div> 
+### <div align="center"><h1>𝓗𝓲 👋, 𝓘'𝓶 𝓓𝓱𝓻𝓾𝓿 𝓙𝓪𝓻𝓪𝓭𝓲</div> 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# 💫 About Me:
+# <div align="center">💫 About Me:</div>
 - <h3>🌱 I'm a fresher at G.H. Patel College of Engineering and Technology pursuing Computer Engineering<br>
 - <h3>🔭 I'm currently working on flourishing my technical skills <br>
 - <h3>🤝🏽 I'm looking for help with computing and gain deep knowledge of it<br>
