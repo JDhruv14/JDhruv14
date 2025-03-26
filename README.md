@@ -1,6 +1,6 @@
 ### <div align="center"><h1>𝓗𝓲 <img src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px">, 𝓘'𝓶 𝓓𝓱𝓻𝓾𝓿 𝓙𝓪𝓻𝓪𝓭𝓲</div> 
 
-![MasterHead](318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif)
+![Colorful Github Header](https://github.com/JDhruv14/JDhruv14/blob/main/Dhruv's%20Header%20Image.png)
 
 
 # <div align="center">💫 About Me:</div>
