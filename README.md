@@ -1,4 +1,10 @@
-### <div align="center"><h1>𝓗𝓲 <img src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" height="30px">, 𝓘'𝓶 𝓓𝓱𝓻𝓾𝓿 𝓙𝓪𝓻𝓪𝓭𝓲</div> 
+<h1 align="center">Hi
+  <picture>
+    <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp">
+    <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="28" height="28">
+  </picture>
+  , I'm Dhruv Jaradi
+</h1>
 
 ![Colorful Github Header](https://github.com/JDhruv14/JDhruv14/blob/main/Dhruv's%20Header%20Image.png)
 
