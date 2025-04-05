@@ -28,12 +28,12 @@
 ## 📊 GitHub Stats
 
   <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jdhruv14&show_icons=true&theme=calm_pink&rank_icon=github&hide=issues&hide_border=true"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jdhruv14&theme=calm_pink&hide_border=true"/>
+    <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api?username=jdhruv14&show_icons=true&theme=calm_pink&rank_icon=github&hide=issues&hide_border=true">
+    <img width="47%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=jdhruv14&theme=calm_pink&hide_border=true">
   </div>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdhruv14&bg_color=2b2d40&color=f97316&line=f9a09a&point=f97316&area=true&hide_border=true" alt="GitHub Activity Graph" width="94%" style="border-radius: 12px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdhruv14&bg_color=2b2d40&color=f97316&line=f9a09a&point=f97316&area=true&hide_border=true" alt="GitHub Activity Graph" width="94%">
 </p>
