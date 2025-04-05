@@ -27,10 +27,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdhruv14&show_icons=true&theme=calm_pink&rank_icon=github&hide=issues&hide_title=false&count_private=true&hide_border=true" width="49%" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jdhruv14&theme=calm_pink&hide_border=true" width="49%" height="160">
-</div>
+  <div align="center">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jdhruv14&show_icons=true&theme=calm_pink&hide_border=true"/>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jdhruv14&theme=calm_pink&hide_border=true"/>
+  </div>
 
 <br>
 
