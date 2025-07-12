@@ -20,7 +20,7 @@
 
 - Languages: `Python` `Java` `C` `C++` `HTML` `CSS` `JavaScript` `SQL`  
 - Data Analytics Tools: `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Excel`  
-- Frameworks/Libraries: `npm` `yarn` `Next.js` `Streamlit`  
+- Frameworks/Libraries: `npm` `yarn` `Next.js` `Streamlit` `uv` `pip` `fastmcp`
 - Platforms: `GitHub` `Vercel`  
 - Databases: `MySQL`  
 - Productivity: `Notion` `Canva` `VS Code` `ChatGPT`
