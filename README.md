@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/JDhruv14/JDhruv14/blob/main/Dhruv's%20Header%20Image.png" alt="Colorful Github Header">
+</p>
+<br>
 <pre align="center">
 ██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
 ██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
@@ -7,35 +11,3 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
 </pre>
 
-<h3 align="center">Rooted in curiosity, scaling ideas with code—building tech that matters.</h3>
-
-<p align="center">
-  <img src="https://github.com/JDhruv14/JDhruv14/blob/main/Dhruv's%20Header%20Image.png" alt="Colorful Github Header">
-</p>
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jdhruv143) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jdhruv14) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jdhruv14) 
-
-## 💻 Technology & Tools
-
-- Languages: `Python` `Java` `C` `C++` `HTML` `CSS` `JavaScript` `SQL`  
-- Data Analytics Tools: `NumPy` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Excel`  
-- Frameworks/Libraries: `npm` `yarn` `Next.js` `Streamlit` `uv` `pip` `fastmcp`
-- Platforms: `GitHub` `Vercel`  
-- Databases: `MySQL`  
-- Productivity: `Notion` `Canva` `VS Code` `ChatGPT`
-
-## 📊 GitHub Stats
-
-  <div align="center">
-    <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api?username=jdhruv14&show_icons=true&theme=calm_pink&rank_icon=github&hide=issues&hide_border=true">
-    <img width="47%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=jdhruv14&theme=calm_pink&hide_border=true">
-  </div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jdhruv14&bg_color=2b2d40&color=f97316&line=f9a09a&point=f97316&area=true&hide_border=true" alt="GitHub Activity Graph" width="94%">
-</p>
